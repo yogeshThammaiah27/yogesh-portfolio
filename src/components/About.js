@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import Wrapper from "./Wrapper";
 import {FaUser } from "react-icons/fa";
 function About()
@@ -15,6 +15,7 @@ function About()
 
         </section>
         </Wrapper>
+        //
     );
 
 }

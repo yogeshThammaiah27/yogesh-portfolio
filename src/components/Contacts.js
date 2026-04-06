@@ -1,6 +1,6 @@
- import React from "react";
+//  import React from "react";
 import Wrapper from "./Wrapper";
-import {FaPhone, FaEnvelope,FaMapMarkerAlt,FaBriefcase} from "react-icons/fa";
+import {FaPhone, FaEnvelope,FaMapMarkerAlt} from "react-icons/fa";
 
  function Contact()
  {

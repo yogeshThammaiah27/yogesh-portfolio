@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import Wrapper from "./Wrapper";
 import {FaUser, FaProjectDiagram, FaEnvelope, FaTools, 
   FaBriefcase } from "react-icons/fa";
